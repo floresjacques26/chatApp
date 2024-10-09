@@ -1,2 +1,1 @@
-# chatApp
-estudo com flutter
+# chat_app_flutter
